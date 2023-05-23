@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "제목1",
+      "content": "내용1",
+      "createdAt": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "title": "제목2",
+      "content": "내용2",
+      "createdAt": "2023-02-02"
+    },
+    {
+      "id": 3,
+      "title": "제목3",
+      "content": "내용3",
+      "createdAt": "2023-03-03"
+    },
+    {
+      "id": 4,
+      "title": "제목4",
+      "content": "내용4",
+      "createdAt": "2023-04-04"
+    },
+    {
+      "__v_isShallow": false,
+      "dep": {
+        "w": 0,
+        "n": 0
+      },
+      "__v_isRef": true,
+      "_rawValue": {
+        "title": "오늘의 인테리어@@@",
+        "content": "안녕하세요!!!"
+      },
+      "_value": {
+        "title": "오늘의 인테리어@@@",
+        "content": "안녕하세요!!!"
+      },
+      "id": 6
+    },
+    {
+      "title": "제목5",
+      "content": "내용5",
+      "createdAt": 1684825904640,
+      "id": 7
+    }
+  ]
+}
